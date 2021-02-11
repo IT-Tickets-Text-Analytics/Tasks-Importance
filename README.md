@@ -5,7 +5,7 @@ This repository contains the following files: Business Sentiment (BS) Lexicon, p
 
 Below, we describe the main stages of Step 3. Importance Aspect Extraction.
 
-Python code:(Importance_Extraction.py)
+Python code (Importance_Extraction.py):
 STAGE 1. BS lexicon reading and stemming
 STAGE 2. Tasks corpus (2.1.) reading, special preprocessing
        (2.2.) keeping special symbols and uppercase and
@@ -13,6 +13,6 @@ STAGE 2. Tasks corpus (2.1.) reading, special preprocessing
 STAGE 3. Find words in the task text that match (3.1.) the BS lexicon expressions and (3.2.) the BS lexicon keywords. Count number of matched words and their total score
 STAGE 4. Writing of matched words, their number and total score in the *.csv file
 
-Excel *.csv file computing:(Importance_Calculation.xlsx)
+Excel *.csv file computing (Importance_Calculation.xlsx):
 STAGE 5. Calculation the normalized total score for each task text
 STAGE 6. Importance identification
