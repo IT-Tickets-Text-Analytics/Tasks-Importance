@@ -1,0 +1,10 @@
+﻿
+rejected
+offline
+risk
+outage 
+emergency
+downtime
+blocked
+critical
+

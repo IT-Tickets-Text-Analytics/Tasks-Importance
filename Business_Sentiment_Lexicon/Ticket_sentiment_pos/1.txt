@@ -1,0 +1,7 @@
+﻿
+kind
+success 
+correct
+like
+nice
+
